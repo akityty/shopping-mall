@@ -1,0 +1,26 @@
+/*
+.container{
+    height: auto;
+}*/
+header {
+    position: relative;
+}
+
+.shoping-mall {
+    bottom: 20px;
+    position: absolute;
+    font-variant: small-caps;
+}
+
+.shoping-mall h1 {
+    font-family: fantasy;
+    font-size: 50px;
+    letter-spacing: 0.3px;
+    text-shadow: 0 0 2px black;
+    border-bottom: 2px dotted gray;
+}
+
+.shoping-mall h5 {
+    margin-top: 5px;
+    letter-spacing: 0.5px;
+}
